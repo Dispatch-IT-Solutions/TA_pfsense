@@ -1,4 +1,6 @@
-Tag your incoming data as 'pfsense' to take advantage of these field extractions. 
+### Technology Add-On for pfSense filterlog data
+
+Tag your incoming data as pfsense to take advantage of these field extractions. 
 ```sourcetype = pfsense```
 
 Please note the current configuration of TIME_FORMAT and MAX_TIMESTAMP_LOOKAHEAD for your specific data feed
